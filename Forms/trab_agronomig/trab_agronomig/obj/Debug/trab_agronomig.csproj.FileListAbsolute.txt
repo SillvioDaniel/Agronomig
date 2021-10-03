@@ -1,0 +1,187 @@
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.config
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.pdb
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmLogin.resources
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.Properties.Resources.resources
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.pdb
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmMenu.resources
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmCadastro.resources
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\bin\Debug\MySql.Data.dll
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\bin\Debug\BunifuDataViz 1.0.1.dll
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclProduto2.resources
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclMenuu.resources
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmProduto.resources
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmTipo.resources
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmEstoque.resources
+C:\Users\Mario\Documents\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclEstoque.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.config
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.pdb
+H:\Trabalho\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe
+H:\Trabalho\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.pdb
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csprojResolveAssemblyReference.cache
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmCadastro.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmEstoque.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmLogin.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmMenu.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmProduto.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmTipo.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.Properties.Resources.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclEstoque.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclProduto2.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclMenuu.resources
+H:\Trabalho\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.GenerateResource.Cache
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.config
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.pdb
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.pdb
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csprojResolveAssemblyReference.cache
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmCadastro.resources
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmEstoque.resources
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmLogin.resources
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmMenu.resources
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmProduto.resources
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmTipo.resources
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.Properties.Resources.resources
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclEstoque.resources
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclProduto2.resources
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclMenuu.resources
+H:\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.GenerateResource.Cache
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmCadastro.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmEstoque.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmLogin.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmMenu.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmProduto.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmTipo.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.Properties.Resources.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclEstoque.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclProduto2.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclMenuu.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.GenerateResource.Cache
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.pdb
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.config
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.pdb
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\bin\Debug\MySql.Data.dll
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclVendas.resources
+C:\Users\Mario\Downloads\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmVenda.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csprojAssemblyReference.cache
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmCadastro.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmEstoque.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmLogin.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmMenu.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmProduto.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmTipo.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmVenda.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.Properties.Resources.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclVendas.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclEstoque.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclProduto2.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclMenuu.resources
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.GenerateResource.cache
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.CoreCompileInputs.cache
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.pdb
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.config
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.pdb
+C:\Users\silvi\OneDrive\Documentos\Trabalho\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.CopyComplete
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.config
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.pdb
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\bin\Debug\BunifuDataViz 1.0.1.dll
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\bin\Debug\MySql.Data.dll
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmCadastro.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmEstoque.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmLogin.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmMenu.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmProduto.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmTipo.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmVenda.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.Properties.Resources.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclVendas.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclEstoque.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclProduto2.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclMenuu.resources
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.GenerateResource.Cache
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe
+C:\Users\Mario\Downloads\trab_agronomig (1)\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.pdb
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.config
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.pdb
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\bin\Debug\MySql.Data.dll
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmCadastro.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmEstoque.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmLogin.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmMenu.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmProduto.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmTipo.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmVenda.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.Properties.Resources.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclVendas.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclEstoque.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclProduto2.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclMenuu.resources
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.GenerateResource.Cache
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.pdb
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.config
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.pdb
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.pdb
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csprojResolveAssemblyReference.cache
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmCadastro.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmEstoque.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmLogin.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmMenu.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmProduto.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmTipo.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmVenda.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.Properties.Resources.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclVendas.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclEstoque.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclProduto2.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclMenuu.resources
+H:\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.GenerateResource.Cache
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.manifest
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.application
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe.manifest
+C:\Users\Mario\Downloads\Trabalhoo\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.application
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.config
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.pdb
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmCadastro.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmEstoque.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmLogin.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmMenu.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmProduto.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmTipo.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.frmVenda.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.Properties.Resources.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclVendas.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclEstoque.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclProduto2.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.uclMenuu.resources
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.GenerateResource.Cache
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe.manifest
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.application
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.exe
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\bin\Debug\trab_agronomig.pdb
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.exe.manifest
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.application
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csprojAssemblyReference.cache
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.CoreCompileInputs.cache
+H:\Agronomig\Forms\trab_agronomig\trab_agronomig\obj\Debug\trab_agronomig.csproj.CopyComplete

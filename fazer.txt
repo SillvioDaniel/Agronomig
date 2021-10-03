@@ -1,0 +1,11 @@
+*Script para permitir a entrada somente de numeros e pontos ou somente letras.
+
+*Dar nomes mais significativos aos arquivos: "login.php" mudar para "loja.php"
+
+*Organizar codigo HTML
+
+*Em avalicao (conta.php) colocar estrelas
+
+*Em login.php n deixar aparecer o produto caso a quantidade dele seja zerada(pode-se fazer um codigo para excluir automaticamente e enviar uma notificacao para o usuario).
+
+*Enviar notificacoes com acoes importante do usuario(vendas recebis, compras feitas, produto anunciado,etc)
